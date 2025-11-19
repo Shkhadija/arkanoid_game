@@ -1,0 +1,53 @@
+C:\Users\mikoq\source\repos\arkonoid\bin\Debug\net8.0-windows\arkonoid.exe
+C:\Users\mikoq\source\repos\arkonoid\bin\Debug\net8.0-windows\arkonoid.deps.json
+C:\Users\mikoq\source\repos\arkonoid\bin\Debug\net8.0-windows\arkonoid.runtimeconfig.json
+C:\Users\mikoq\source\repos\arkonoid\bin\Debug\net8.0-windows\arkonoid.dll
+C:\Users\mikoq\source\repos\arkonoid\bin\Debug\net8.0-windows\arkonoid.pdb
+C:\Users\mikoq\source\repos\arkonoid\obj\Debug\net8.0-windows\arkonoid.Form1.resources
+C:\Users\mikoq\source\repos\arkonoid\obj\Debug\net8.0-windows\arkonoid.Properties.Resources.resources
+C:\Users\mikoq\source\repos\arkonoid\obj\Debug\net8.0-windows\arkonoid.csproj.GenerateResource.cache
+C:\Users\mikoq\source\repos\arkonoid\obj\Debug\net8.0-windows\arkonoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikoq\source\repos\arkonoid\obj\Debug\net8.0-windows\arkonoid.AssemblyInfoInputs.cache
+C:\Users\mikoq\source\repos\arkonoid\obj\Debug\net8.0-windows\arkonoid.AssemblyInfo.cs
+C:\Users\mikoq\source\repos\arkonoid\obj\Debug\net8.0-windows\arkonoid.csproj.CoreCompileInputs.cache
+C:\Users\mikoq\source\repos\arkonoid\obj\Debug\net8.0-windows\arkonoid.dll
+C:\Users\mikoq\source\repos\arkonoid\obj\Debug\net8.0-windows\refint\arkonoid.dll
+C:\Users\mikoq\source\repos\arkonoid\obj\Debug\net8.0-windows\arkonoid.pdb
+C:\Users\mikoq\source\repos\arkonoid\obj\Debug\net8.0-windows\arkonoid.genruntimeconfig.cache
+C:\Users\mikoq\source\repos\arkonoid\obj\Debug\net8.0-windows\ref\arkonoid.dll
+C:\Users\husey\OneDrive\İş masası\ders 13\arkonoid\bin\Debug\net8.0-windows\arkonoid.exe
+C:\Users\husey\OneDrive\İş masası\ders 13\arkonoid\bin\Debug\net8.0-windows\arkonoid.deps.json
+C:\Users\husey\OneDrive\İş masası\ders 13\arkonoid\bin\Debug\net8.0-windows\arkonoid.runtimeconfig.json
+C:\Users\husey\OneDrive\İş masası\ders 13\arkonoid\bin\Debug\net8.0-windows\arkonoid.dll
+C:\Users\husey\OneDrive\İş masası\ders 13\arkonoid\bin\Debug\net8.0-windows\arkonoid.pdb
+C:\Users\husey\OneDrive\İş masası\ders 13\arkonoid\obj\Debug\net8.0-windows\arkonoid.Form1.resources
+C:\Users\husey\OneDrive\İş masası\ders 13\arkonoid\obj\Debug\net8.0-windows\arkonoid.Properties.Resources.resources
+C:\Users\husey\OneDrive\İş masası\ders 13\arkonoid\obj\Debug\net8.0-windows\arkonoid.csproj.GenerateResource.cache
+C:\Users\husey\OneDrive\İş masası\ders 13\arkonoid\obj\Debug\net8.0-windows\arkonoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\OneDrive\İş masası\ders 13\arkonoid\obj\Debug\net8.0-windows\arkonoid.AssemblyInfoInputs.cache
+C:\Users\husey\OneDrive\İş masası\ders 13\arkonoid\obj\Debug\net8.0-windows\arkonoid.AssemblyInfo.cs
+C:\Users\husey\OneDrive\İş masası\ders 13\arkonoid\obj\Debug\net8.0-windows\arkonoid.csproj.CoreCompileInputs.cache
+C:\Users\husey\OneDrive\İş masası\ders 13\arkonoid\obj\Debug\net8.0-windows\arkonoid.sourcelink.json
+C:\Users\husey\OneDrive\İş masası\ders 13\arkonoid\obj\Debug\net8.0-windows\arkonoid.dll
+C:\Users\husey\OneDrive\İş masası\ders 13\arkonoid\obj\Debug\net8.0-windows\refint\arkonoid.dll
+C:\Users\husey\OneDrive\İş masası\ders 13\arkonoid\obj\Debug\net8.0-windows\arkonoid.pdb
+C:\Users\husey\OneDrive\İş masası\ders 13\arkonoid\obj\Debug\net8.0-windows\arkonoid.genruntimeconfig.cache
+C:\Users\husey\OneDrive\İş masası\ders 13\arkonoid\obj\Debug\net8.0-windows\ref\arkonoid.dll
+C:\Users\Zakir\Source\Repos\Lesson-14\ders 14\arkonoid\bin\Debug\net8.0-windows\arkonoid.exe
+C:\Users\Zakir\Source\Repos\Lesson-14\ders 14\arkonoid\bin\Debug\net8.0-windows\arkonoid.deps.json
+C:\Users\Zakir\Source\Repos\Lesson-14\ders 14\arkonoid\bin\Debug\net8.0-windows\arkonoid.runtimeconfig.json
+C:\Users\Zakir\Source\Repos\Lesson-14\ders 14\arkonoid\bin\Debug\net8.0-windows\arkonoid.dll
+C:\Users\Zakir\Source\Repos\Lesson-14\ders 14\arkonoid\bin\Debug\net8.0-windows\arkonoid.pdb
+C:\Users\Zakir\Source\Repos\Lesson-14\ders 14\arkonoid\obj\Debug\net8.0-windows\arkonoid.Form1.resources
+C:\Users\Zakir\Source\Repos\Lesson-14\ders 14\arkonoid\obj\Debug\net8.0-windows\arkonoid.Properties.Resources.resources
+C:\Users\Zakir\Source\Repos\Lesson-14\ders 14\arkonoid\obj\Debug\net8.0-windows\arkonoid.csproj.GenerateResource.cache
+C:\Users\Zakir\Source\Repos\Lesson-14\ders 14\arkonoid\obj\Debug\net8.0-windows\arkonoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zakir\Source\Repos\Lesson-14\ders 14\arkonoid\obj\Debug\net8.0-windows\arkonoid.AssemblyInfoInputs.cache
+C:\Users\Zakir\Source\Repos\Lesson-14\ders 14\arkonoid\obj\Debug\net8.0-windows\arkonoid.AssemblyInfo.cs
+C:\Users\Zakir\Source\Repos\Lesson-14\ders 14\arkonoid\obj\Debug\net8.0-windows\arkonoid.csproj.CoreCompileInputs.cache
+C:\Users\Zakir\Source\Repos\Lesson-14\ders 14\arkonoid\obj\Debug\net8.0-windows\arkonoid.sourcelink.json
+C:\Users\Zakir\Source\Repos\Lesson-14\ders 14\arkonoid\obj\Debug\net8.0-windows\arkonoid.dll
+C:\Users\Zakir\Source\Repos\Lesson-14\ders 14\arkonoid\obj\Debug\net8.0-windows\refint\arkonoid.dll
+C:\Users\Zakir\Source\Repos\Lesson-14\ders 14\arkonoid\obj\Debug\net8.0-windows\arkonoid.pdb
+C:\Users\Zakir\Source\Repos\Lesson-14\ders 14\arkonoid\obj\Debug\net8.0-windows\arkonoid.genruntimeconfig.cache
+C:\Users\Zakir\Source\Repos\Lesson-14\ders 14\arkonoid\obj\Debug\net8.0-windows\ref\arkonoid.dll
